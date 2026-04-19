@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' => 'داشبۆرد',
+    'operations' => 'کارەکان',
+    'exam_calendar' => 'ڕۆژمێری تاقیکردنەوە',
+    'halls_management' => 'بەڕێوەبردنی هۆڵەکان',
+    'invigilators' => 'چاودێرانی تاقیکردنەوە',
+    'planning' => 'پلان',
+    'midterm_plan' => 'پلانی نیوەساڵ',
+    'final_plan' => 'پلانی کۆتایی ساڵ',
+    'users_access' => 'بەکارهێنەران و دەسەڵات',
+    'users_list' => 'لیستی بەکارهێنەران',
+    'roles_permissions' => 'ڕۆڵ و مۆڵەتەکان',
+    'reports' => 'ڕاپۆرتەکان',
+    'daily_reports' => 'ڕاپۆرتی ڕۆژانە',
+    'summary_reports' => 'ڕاپۆرتی پوختە',
+    'profile' => 'پرۆفایل',
+    'account' => 'هەژمار',
+    'security' => 'پاراستن',
+    'menu' => 'مێنیو',
+    'demo_page' => 'پەیجی تاقیکردنەوە',
+    'mobile_ipad_ready' => 'ئەم دیزاینە بۆ مۆبایل و ئایپاد ئامادەکراوە.',
+    'log_out' => 'چوونەدەرەوە',
+    'sidebar_density' => 'قەبارەی سایدباڕ',
+    'density_normal' => 'ئاسایی',
+    'density_compact' => 'کورتکراو',
+];

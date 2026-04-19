@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' => 'Dashboard',
+    'operations' => 'Operations',
+    'exam_calendar' => 'Exam Calendar',
+    'halls_management' => 'Halls Management',
+    'invigilators' => 'Invigilators',
+    'planning' => 'Planning',
+    'midterm_plan' => 'Midterm Plan',
+    'final_plan' => 'Final Plan',
+    'users_access' => 'Users & Access',
+    'users_list' => 'Users List',
+    'roles_permissions' => 'Roles & Permissions',
+    'reports' => 'Reports',
+    'daily_reports' => 'Daily Reports',
+    'summary_reports' => 'Summary Reports',
+    'profile' => 'Profile',
+    'account' => 'Account',
+    'security' => 'Security',
+    'menu' => 'Menu',
+    'demo_page' => 'Demo Page',
+    'mobile_ipad_ready' => 'This layout is optimized for mobile and iPad screens.',
+    'log_out' => 'Log Out',
+    'sidebar_density' => 'Sidebar Density',
+    'density_normal' => 'Normal',
+    'density_compact' => 'Compact',
+];

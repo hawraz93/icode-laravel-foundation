@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' => 'لوحة التحكم',
+    'operations' => 'العمليات',
+    'exam_calendar' => 'تقويم الامتحانات',
+    'halls_management' => 'إدارة القاعات',
+    'invigilators' => 'المراقبون',
+    'planning' => 'التخطيط',
+    'midterm_plan' => 'خطة منتصف السنة',
+    'final_plan' => 'خطة نهاية السنة',
+    'users_access' => 'المستخدمون والصلاحيات',
+    'users_list' => 'قائمة المستخدمين',
+    'roles_permissions' => 'الأدوار والصلاحيات',
+    'reports' => 'التقارير',
+    'daily_reports' => 'التقارير اليومية',
+    'summary_reports' => 'التقارير الملخصة',
+    'profile' => 'الملف الشخصي',
+    'account' => 'الحساب',
+    'security' => 'الأمان',
+    'menu' => 'القائمة',
+    'demo_page' => 'صفحة تجريبية',
+    'mobile_ipad_ready' => 'هذا التصميم مهيأ لشاشات الهاتف والآيباد.',
+    'log_out' => 'تسجيل الخروج',
+    'sidebar_density' => 'حجم الشريط الجانبي',
+    'density_normal' => 'عادي',
+    'density_compact' => 'مضغوط',
+];
